@@ -1,16 +1,36 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+Name+is+Vishal+Krishna+Shah)](https://git.io/typing-svg)
 
-<!--
-**jar9699/jar9699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">A passionate Software Engineer</h2>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalshah84&label=Profile%20views&color=0e75b6&style=flat" alt="vishalshah84" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently Pursuing Masters in Robotics and Autonomous Systems from **ASU**
+
+- 📫 How to reach me **rajravidas08@gmail.com**
+
+- 🌏 know more about me <a href="https://vishalshah84.github.io/portfolio/"> **Portfolio** </a>
+
+- ⚡ Fun fact **I think I am funny**
+
+#### Connect with me:
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<p align="left">
+<a href="https://twitter.com/vishalshah_84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalshah_84" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishalshah84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishalshah84" height="30" width="40" /></a>
+<a href="https://instagram.com/vishalshah_84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishalshah_84" height="30" width="40" /></a>
+</p>
+
+#### Languages and Tools:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=aws"/>](https://sass-lang.com/)
+
+#### Studying in this moment: 
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://sass-lang.com/)
+ 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalshah84&theme=radical" alt="vishalshah84" /></p>
