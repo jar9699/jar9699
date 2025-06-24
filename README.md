@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jar9699&label=Profile%20views&color=0e75b6&style=flat" alt="jar9699" /> </p>
 
-- 🌱 I’m currently Pursuing Masters in Robotics and Autonomous Systems from **ASU**
+- 🌱 I’m currently Pursuing Masters in Computing Systems and Infrastructure from **BITS PILANI**
 
 - 📫 How to reach me **rajravidas08@gmail.com**
 
@@ -33,4 +33,4 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://sass-lang.com/)
  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jar9699&theme=radical" alt="vishalshah84" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jar9699&theme=radical" alt="Jar9699" /></p>
