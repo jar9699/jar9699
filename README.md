@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+Name+is+Raj+Ramu+Ravidas)](https://git.io/typing-svg)
 
-<h2 align="center">A passionate Software Engineer</h2>
+<h2 align="center">Cloud Enthusiast | Developer | Educator</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jar9699&label=Profile%20views&color=0e75b6&style=flat" alt="jar9699" /> </p>
 
 - 🌱 I’m currently Pursuing Masters in Computing Systems and Infrastructure from **BITS PILANI**
+- 💼 Working at **Wipro Technologies Ltd**, assigned to the **GTAA Infrastructure Services** project.
+- 👨‍🏫 Passionate about teaching — conducted free coding sessions in **SQL, Python, Java, C, and Web Development**
 
 - 📫 How to reach me **rajravidas08@gmail.com**
 
