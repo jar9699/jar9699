@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **rajravidas08@gmail.com**
 
-- 🌏 know more about me <a href="https://vishalshah84.github.io/portfolio/"> **Portfolio** </a>
-
 - ⚡ Fun fact **I think I am funny**
 
 #### Connect with me:
